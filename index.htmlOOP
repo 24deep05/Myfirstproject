@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MyCaptian html project!!</title>
+    </head>
+    <body>
+       <!--1. text and photos--> 
+       <h1>user_name space</h1>
+       <hr>
+       <img src="https://plus.unsplash.com/premium_photo-1669640021387-20bdd6d50c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60" width="200px;">
+       <h2>description for post or image</h2>
+
+       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto minima odio, quas nisi saepe mollitia <br>
+        ad nihil voluptate nesciunt quidem necessitatibus amet aperiam excepturi, praesentium dolores! Debitis excepturi adipisci dolore?</p>
+
+        <h3>another user_name space</h3>
+        <hr>
+        <img src="https://images.unsplash.com/photo-1694267510052-feac0d872085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxOHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" width="200px;">
+        <h4>description of post or image</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus sed veniam necessitatibus. Aspernatur quaerat ipsum<br>
+             animi placeat tenetur praesentium harum? Reprehenderit dignissimos voluptates consequuntur doloremque officia rem modi ut nisi?</p>
+       </body>
+</html>
